@@ -46,4 +46,3 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> 7e55f0b7235ce729551e8d0bca98862f62b339ae
