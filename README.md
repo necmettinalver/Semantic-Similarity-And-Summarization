@@ -4,7 +4,9 @@ We carried out Sematic Similarity, Classification and Summarization operations u
 
 ##
 
-- Ac
+- Accuracy of Classification and Similarity -> loss: 0.4190 - accuracy: 0.8464
+- Rogue Score of Summarization -> 0.023027
+
 
 ## Installation
 
