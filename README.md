@@ -1,9 +1,12 @@
-# Hakkında
+# About
 
-Projede LLM'ler kullanılarak Sematic Similarity, Classification ve Summarization işlemlerini gerçekleştirdik. Semantic Similarity ve Classification işlemi için Bert tabanlı, Summarization için Bart tabanlı bir LLM kullanıldı.
+We carried out Sematic Similarity, Classification and Summarization operations using LLMs in the project. A Bert-based LLM was used for Semantic Similarity and Classification, and a Bart-based LLM was used for Summarization.
+
+##
+
+- Ac
 
 ## Installation
-
 
 ```bash
 pip install -r requirements.txt
