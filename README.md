@@ -1,14 +1,12 @@
 # About
 
-We carried out Sematic Similarity, Classification and Summarization operations using LLMs in the project. A Bert-based LLM was used for Semantic Similarity and Classification, and a Bart-based LLM was used for Summarization.
+We carried out Sematic Similarity, Classification and Summarization operations using LLMs in the project. A Bert-based LLM was used for Semantic Similarity and Classification, and a Bart-based LLM was used for Summarization. Models in my HF Hub. Link : https://huggingface.co/necover
 
 ## Folder Design
 If you want to make a quick prediction, go to the predicter.ipynb file, where the models installed on the Huggingface hub are downloaded and predictions are made.
 Inside the Class folder, there are Python files in Object Oriented Programming format created for both algorithms.
 
-## Model
 
-https://huggingface.co/necover
 ## Accuracy
 
 - Accuracy of Classification and Similarity -> 0.8464
