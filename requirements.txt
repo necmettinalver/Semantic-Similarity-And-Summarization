@@ -1,0 +1,7 @@
+transformers
+accelerate
+pandas
+torch
+datasets
+rouge_score
+huggingface
