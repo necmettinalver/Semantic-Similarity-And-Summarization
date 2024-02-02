@@ -2,7 +2,10 @@
 
 We carried out Sematic Similarity, Classification and Summarization operations using LLMs in the project. A Bert-based LLM was used for Semantic Similarity and Classification, and a Bart-based LLM was used for Summarization.
 
-##
+## Folder Design
+Inside the Class folder, there are Python files in Object Oriented Programming format created for both algorithms.
+
+## Accuracy
 
 - Accuracy of Classification and Similarity -> loss: 0.4190 - accuracy: 0.8464
 - Rogue Score of Summarization -> 0.023027
